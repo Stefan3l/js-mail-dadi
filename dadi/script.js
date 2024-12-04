@@ -8,13 +8,15 @@
 // 3 - Genero un numero random dal utente
 // 4 - Stabilisco un vincitore in base al punteggio piu alto
 
-const number = [1, 2, 3, 4, 5, 6]
 
-const numbCpu =  Math.floor((Math.random() * 6) + 1);
+
+const numbCpu = Math.floor((Math.random() * 6) + 1);
+
+console.log(numbCpu)
 
 const numbUtente = Math.floor((Math.random() * 6) + 1) ;
 
-console.log(numbCpu, numbUtente)
+console.log( numbUtente)
 
 if ( numbCpu > numbUtente) {
     alert(`ha vinto il CPU con il numero ${numbCpu} 😎`)
