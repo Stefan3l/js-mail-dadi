@@ -3,10 +3,10 @@
 // Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 
-// 1 - Creea un array con i numeri da 1 a 6
-// 2 - Genero un numero random dal computer
-// 3 - Genero un numero random dal utente
-// 4 - Stabilisco un vincitore in base al punteggio piu alto
+
+// 1 - Genero un numero random dal computer
+// 2 - Genero un numero random dal utente
+// 3 - Stabilisco un vincitore in base al punteggio piu alto
 
 
 
